@@ -5,3 +5,4 @@ doc
 benchmark/implementations/*
 !/benchmark/implementations/current/
 .idea
+*.swp
